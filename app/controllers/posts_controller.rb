@@ -2,14 +2,12 @@ class PostsController < ApplicationController
   before_action :set_post, only: [:show, :edit, :update, :delete]
 
   # GET /posts
-  timeout 10
   def index
     @posts = Post.all
     # render json: @posts
   end
 
   # GET /posts/1
-  timeout 15
   def show
   end
 
