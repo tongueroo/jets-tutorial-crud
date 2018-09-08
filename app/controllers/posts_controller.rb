@@ -3,6 +3,7 @@ class PostsController < ApplicationController
 
   # GET /posts
   def index
+    raise "the roof"
     @posts = Post.all
     # render json: @posts
   end
