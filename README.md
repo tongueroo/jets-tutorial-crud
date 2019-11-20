@@ -1,5 +1,7 @@
 # Starter Jets Project
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 This project demonstrates basic CRUD.  Here are the corresponding tutorial articles:
 
 * [Jets Tutorial An Introductory CRUD App Part 1](https://blog.boltops.com/2018/09/07/jets-tutorial-crud-app-introduction-part-1)
